@@ -12,5 +12,5 @@
   * [Markdown configuration](markdown.md)
   * [Language highlight](language-highlight.md) -->
 
- * [MySQL](mysql/)
- * [关于我](about/)
+ <!-- * [MySQL](mysql/)
+ * [关于我](about/) -->
