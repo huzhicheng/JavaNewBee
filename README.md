@@ -24,7 +24,7 @@ Java 从小白到大牛，涵盖Java 基础、进阶、后端等核心要点，�
 之前写过 Spring Cloud 系列，在另外一个仓库中，已经有 140多为同学给了 star，欢迎各位同学关注。
 [点击开始学习 Spring Cloud](https://github.com/huzhicheng/spring-cloud-study)
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfkmusbqm7j313t0u0k3i.jpg)
+[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfkmusbqm7j313t0u0k3i.jpg)](https://github.com/huzhicheng/spring-cloud-study)
 
 
 # 我写过的文章
