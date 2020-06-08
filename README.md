@@ -22,6 +22,7 @@ Java 从小白到大牛，涵盖Java 基础、进阶、后端等核心要点，�
 # Spring Cloud 系列
 
 之前写过 Spring Cloud 系列，在另外一个仓库中，已经有 140多为同学给了 star，欢迎各位同学关注。
+[点击开始学习 Spring Cloud](https://github.com/huzhicheng/spring-cloud-study)
 
 ![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfkmusbqm7j313t0u0k3i.jpg)
 
@@ -59,25 +60,53 @@ Java 从小白到大牛，涵盖Java 基础、进阶、后端等核心要点，�
 
 [踩过 ArrayList 这几个坑的请举手](https://mp.weixin.qq.com/s/pAmnqfLiKbsd9MeTLuaagQ)
 
-[面试必备：MySQL 的4种事务隔离级别及其原理](https://mp.weixin.qq.com/s/ukfhk_11LJDyQ7Ri8hXiAg)
+### JVM 了不起吗
 
-[做开发也要掌握的 mysql 优化思路](https://mp.weixin.qq.com/s/KyVXCtXp6skGjCnTIs2WUA)
-[]()
-[]()
-[]()
-[]()
+[线上性能排查神器 BTrace 的使用](https://mp.weixin.qq.com/s/4vYFLVJWufJyNNuWrmDT2A)
 
+[线上问题排查神器 Arthas](https://mp.weixin.qq.com/s/_B0SAly8JrM97qhVWbPRXw)
 
+[跨平台这件事儿](https://mp.weixin.qq.com/s/-HoqcoCTec9kB086RWIc2g)
 
+[我们说的 JVM 内存是什么](https://mp.weixin.qq.com/s/Liy8XYbJn9qfOAdVA4xx5w)
+
+[Java 调试工具、热部署、JVM 监控工具都用到了它](https://mp.weixin.qq.com/s/9xn9Ht4WO0Et_V7ZclsX_Q)
+
+[JConsole、VisualVM 依赖的 JMX 技术](https://mp.weixin.qq.com/s/41v2pyYx9kLthJGjyR9-iw)
+
+[无意中就做了个 web 版 JVM 监控端](https://mp.weixin.qq.com/s/df1XroHcS6KYj4ftkzwKfQ)
+
+[JVM 你不可不知的参数](https://mp.weixin.qq.com/s/thnH0qXK67jVmxkAaHmaIg)
+
+[分析 JVM 常用的 JDK 内置工具](https://mp.weixin.qq.com/s/qi0wyLrU3ZT1PuXRhWBdSQ)
+
+[手撕 JVM 垃圾收集日志（长文一篇）](https://mp.weixin.qq.com/s/chX7w9-RTUmRcz3-HliYTw)
+
+[写 Java 这么久了，你编译过 JDK 源码吗](https://mp.weixin.qq.com/s/jWN5Ltv3IfhutzOetPhYsA)
+
+[系统内存爆满，原来是线程搞的鬼](https://mp.weixin.qq.com/s/RRP6Zm3ATTY6sURoKzUuHw)
 
 ### MySQL
 
 [一条 SQL 统计大V涨粉排行榜](https://mp.weixin.qq.com/s/t_ZlIMs1c-7xorfuhcEt0A)
 
+[面试必备：MySQL 的4种事务隔离级别及其原理](https://mp.weixin.qq.com/s/ukfhk_11LJDyQ7Ri8hXiAg)
+
+[做开发也要掌握的 mysql 优化思路](https://mp.weixin.qq.com/s/KyVXCtXp6skGjCnTIs2WUA)
+
 ### 多线程
 
 [你用到过 ThreadLocal 吗](https://mp.weixin.qq.com/s/YCYwTsRAe8cMKrwwTvV1JQ)
 
+[Java 中的几种线程池不知道你用对了没有](https://mp.weixin.qq.com/s/lCoN068DgSM3jkUN7frt3g)
+
+[多线程之---用 CountDownLatch 说明 AQS 的实现](https://mp.weixin.qq.com/s/At-c1asneps-s4fzaR3muA)
+
+[从 volatile 说起，可见性和有序性是什么](https://mp.weixin.qq.com/s/URNlL006hGTBpXFbu_5EmA)
+
+[我们说的 CAS 自旋锁是什么](https://mp.weixin.qq.com/s/VeHq-LFPTYbtO6DsHKwngw)
+
+[工作中没有多线程使用场景，怎么办](https://mp.weixin.qq.com/s/IpR0NWZeOFwvWL_yXqR0nA)
 
 
 **持续更新....**
