@@ -17,13 +17,7 @@
 
 ![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfohyllc1lj30u00v71kx.jpg)
 
-# Spring Cloud 系列
-
-之前写过 Spring Cloud 系列，在另外一个仓库中，已经有 140多为同学给了 star，欢迎各位同学关注。
-[点击开始学习 Spring Cloud](https://github.com/huzhicheng/spring-cloud-study)
-
-[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfkmusbqm7j313t0u0k3i.jpg)](https://github.com/huzhicheng/spring-cloud-study)
-
+更详细的脑图由于图片过长，显示效果不好，公众号回复「666」可下载大图查看。
 
 # 我写过的文章
 
@@ -107,8 +101,41 @@
 - [工作中没有多线程使用场景，怎么办](https://mp.weixin.qq.com/s/IpR0NWZeOFwvWL_yXqR0nA)
 
 
-**持续更新....**
+### Spring Cloud 系列
 
+之前写过 Spring Cloud 系列，在另外一个仓库中，已经有 140多为同学给了 star，欢迎各位同学关注。
+
+- [点击开始学习 Spring Cloud](https://github.com/huzhicheng/spring-cloud-study)
+
+- [Spring Cloud 各功能模块一览](https://mp.weixin.qq.com/s/f0iMAPNktJPLwmV9g4vdyw)
+
+- [Spring Cloud 系列之 Eureka 实现单点服务注册发现](https://mp.weixin.qq.com/s/kGrWQP_n_RCYTTaHbWQ3xQ)
+：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/eureka/eureka-single)
+
+- [为 Eureka 服务注册中心实现安全控制](https://mp.weixin.qq.com/s/xVa6Ro4ORsCRJ9gsAOHAeg)
+：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/eureka/eureka-single)
+
+- [Spring Cloud Eureka 实现高可用服务发现注册中心](https://mp.weixin.qq.com/s/d_GfdHxxiwdnYa2_mcv8TA)
+：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/eureka/eureka-ha)
+
+- [Spring Cloud Config 实现配置中心](https://mp.weixin.qq.com/s/WX-F2PdNhcBbzbfl460Gnw)
+：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/config)
+
+- [服务注册发现、配置中心集一体的 Spring Cloud Consul](https://mp.weixin.qq.com/s/HKhzKT4oMX8S_Jg1nLtxNA)
+：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/consul)
+
+- [Spring Cloud 系列之 Spring Cloud Stream](https://mp.weixin.qq.com/s/QBjrCEO7OcPcy75cEkCndQ)
+：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/stream)
+
+- [Spring Cloud Gateway 简单使用](https://mp.weixin.qq.com/s/LvK2_xPm0txNGJMUyKO1GQ)
+：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/consul/gateway)
+
+- [Spring Cloud OAuth2 实现用户认证和单点登录](https://mp.weixin.qq.com/s/tXIycDTHw4nruuMP7xirQA)
+：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/oauth2)
+
+
+- [Spring Cloud OAuth2 授权码模式，微信授权就是这个原理](https://mp.weixin.qq.com/s/r3G8Te9f9uXSbf8YaUV6MA)
+：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/oauth2/oauth2-client-authorization-code-server)
 
 
 # 关注我或加我好友
