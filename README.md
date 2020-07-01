@@ -13,15 +13,21 @@
 [![掘金](https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue)](https://juejin.im/user/5e13ec1d6fb9a04846508aae) 
 
 
-**根据知识图谱，我会写一个在线版本，[点击查看在线版本](https://huzhicheng.github.io/JavaNewBee/#/),正在更新中，欢迎 star,监督我，给我动力，一起进步，一起变优秀！**
+**根据知识图谱，我会写一个在线版本，[点击查看在线版本](https://huzhicheng.github.io/JavaNewBee/#/),持续更新中...**
+
+**下面有我在公众号发过的[文章合集](#我写过的文章)**
+
+更详细的脑图由于图片过长，显示效果不好，公众号回复「666」可下载大图查看。
 
 ![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfohyllc1lj30u00v71kx.jpg)
 
-更详细的脑图由于图片过长，显示效果不好，公众号回复「666」可下载大图查看。
+
 
 # 我写过的文章
 
 ### 比较基础的
+- [7000 子讲解Lambda、函数式接口、Stream的原理及用法，一次性全给你](https://mp.weixin.qq.com/s/WSqLJEvO42uJ-DbOC2D36w)
+
 - [用 jenkins 来提高部署测试的效率](https://mp.weixin.qq.com/s/4I9lHEf5TvwwGtVPTjKFUw)
 
 - [做了个 web 版的 MyBatis Generator](https://mp.weixin.qq.com/s/bVrguGlUpxeoqT__6E176w)
@@ -52,6 +58,35 @@
 
 - [踩过 ArrayList 这几个坑的请举手](https://mp.weixin.qq.com/s/pAmnqfLiKbsd9MeTLuaagQ)
 
+- [HashSet：实不相瞒，我就是个套壳 HashMap](https://mp.weixin.qq.com/s/sD8RcFXUcia22mzP3NOG6A)
+
+- [别说你还不懂 HashMap](https://mp.weixin.qq.com/s/H6lxTfpedzzDz2QXihhdmw)
+
+- [有趣的图说 HashMap，普通人也能看懂](https://mp.weixin.qq.com/s/oECpsgmvS9L7zdW_7TIC9g)
+
+- [别再重复造轮子了，这几个开源工具库送你了](https://mp.weixin.qq.com/s/_Utj5ApU8_Ja0nu411SJAQ)
+
+
+### Spring && Spring Boot
+
+- [跟我极速尝鲜 Spring Boot 2.3](https://mp.weixin.qq.com/s/eBzpHJm1l5_5ndG_2AMXUQ)
+
+- [从 Spring Boot 出发，分析 Spring IoC 过程](https://mp.weixin.qq.com/s/8o_Uc99zAzTbEkELCkB4Xw)
+
+- [原来 Spring Boot Banner 还能这么好玩儿](https://mp.weixin.qq.com/s/ug5n-zSdlJX9tZD43nUCbg)
+
+- [看完就懂的 Spring IoC 实现过程](https://mp.weixin.qq.com/s/Zmh-E3FaPHeV1DUXQBcY7g)
+
+- [你了解 Spring Boot Starter 吗](https://mp.weixin.qq.com/s/BVuFAUvGtxAhwC1R7HIGIw)
+
+- [Spring Boot 和 Docker 实现微服务部署](https://mp.weixin.qq.com/s/ZKL6HmB_w8zuWp9cVNRK7A)
+
+- [Spring mvc redis 扩展 Kyro 序列化方式](https://mp.weixin.qq.com/s/DGdZijfTxarWE9LoObVU-w)
+
+- [Spring 实现自定义 bean 的扩展](https://mp.weixin.qq.com/s/_Q6lrceWmAMTId1nSDBLEg)
+
+- [Spring AOP 和 动态代理技术](https://mp.weixin.qq.com/s/TWnod-b0qC9JwqUlBePAtg)
+
 ### JVM 了不起吗
 
 - [线上性能排查神器 BTrace 的使用](https://mp.weixin.qq.com/s/4vYFLVJWufJyNNuWrmDT2A)
@@ -77,28 +112,6 @@
 - [写 Java 这么久了，你编译过 JDK 源码吗](https://mp.weixin.qq.com/s/jWN5Ltv3IfhutzOetPhYsA)
 
 - [系统内存爆满，原来是线程搞的鬼](https://mp.weixin.qq.com/s/RRP6Zm3ATTY6sURoKzUuHw)
-
-### MySQL
-
-- [一条 SQL 统计大V涨粉排行榜](https://mp.weixin.qq.com/s/t_ZlIMs1c-7xorfuhcEt0A)
-
-- [面试必备：MySQL 的4种事务隔离级别及其原理](https://mp.weixin.qq.com/s/ukfhk_11LJDyQ7Ri8hXiAg)
-
-- [做开发也要掌握的 mysql 优化思路](https://mp.weixin.qq.com/s/KyVXCtXp6skGjCnTIs2WUA)
-
-### 多线程
-
-- [你用到过 ThreadLocal 吗](https://mp.weixin.qq.com/s/YCYwTsRAe8cMKrwwTvV1JQ)
-
-- [Java 中的几种线程池不知道你用对了没有](https://mp.weixin.qq.com/s/lCoN068DgSM3jkUN7frt3g)
-
-- [多线程之---用 CountDownLatch 说明 AQS 的实现](https://mp.weixin.qq.com/s/At-c1asneps-s4fzaR3muA)
-
-- [从 volatile 说起，可见性和有序性是什么](https://mp.weixin.qq.com/s/URNlL006hGTBpXFbu_5EmA)
-
-- [我们说的 CAS 自旋锁是什么](https://mp.weixin.qq.com/s/VeHq-LFPTYbtO6DsHKwngw)
-
-- [工作中没有多线程使用场景，怎么办](https://mp.weixin.qq.com/s/IpR0NWZeOFwvWL_yXqR0nA)
 
 
 ### Spring Cloud 系列
@@ -136,6 +149,52 @@
 
 - [Spring Cloud OAuth2 授权码模式，微信授权就是这个原理](https://mp.weixin.qq.com/s/r3G8Te9f9uXSbf8YaUV6MA)
 ：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/oauth2/oauth2-client-authorization-code-server)
+
+
+
+### MySQL
+
+- [一条 SQL 统计大V涨粉排行榜](https://mp.weixin.qq.com/s/t_ZlIMs1c-7xorfuhcEt0A)
+
+- [面试必备：MySQL 的4种事务隔离级别及其原理](https://mp.weixin.qq.com/s/ukfhk_11LJDyQ7Ri8hXiAg)
+
+- [做开发也要掌握的 mysql 优化思路](https://mp.weixin.qq.com/s/KyVXCtXp6skGjCnTIs2WUA)
+
+### 多线程
+
+- [你用到过 ThreadLocal 吗](https://mp.weixin.qq.com/s/YCYwTsRAe8cMKrwwTvV1JQ)
+
+- [Java 中的几种线程池不知道你用对了没有](https://mp.weixin.qq.com/s/lCoN068DgSM3jkUN7frt3g)
+
+- [多线程之---用 CountDownLatch 说明 AQS 的实现](https://mp.weixin.qq.com/s/At-c1asneps-s4fzaR3muA)
+
+- [从 volatile 说起，可见性和有序性是什么](https://mp.weixin.qq.com/s/URNlL006hGTBpXFbu_5EmA)
+
+- [我们说的 CAS 自旋锁是什么](https://mp.weixin.qq.com/s/VeHq-LFPTYbtO6DsHKwngw)
+
+- [工作中没有多线程使用场景，怎么办](https://mp.weixin.qq.com/s/IpR0NWZeOFwvWL_yXqR0nA)
+
+
+
+### 技术之外
+
+- [为什么你提的问题没人回答](https://mp.weixin.qq.com/s/Xuv-QbXwkq5jrLq6fSkftw)
+
+- [不写代码搭建自己的技术博客](https://mp.weixin.qq.com/s/eaDyjcyNfUP70S6wSNBmkw)
+
+- [专栏没骗我，我自己骗了自己](https://mp.weixin.qq.com/s/t_61bsjtOHmTyrLWM-Ee-Q)
+
+- [Java 13 都发布了，你的 Java 8 下线了吗](https://mp.weixin.qq.com/s/3LqMv2ZIbLqvhRbml-d5Iw)
+
+- [我面向 Google 编程，他面向薪资编程](https://mp.weixin.qq.com/s/2xsxqx0S2rGt6DeO9ZsF0A)
+
+- [技术是如何被拿去作恶的](https://mp.weixin.qq.com/s/TA3j0-EzhowizothxwmOjw)
+
+- [程序员• 后浪](https://mp.weixin.qq.com/s/zqMGJ4ixmNEat4HR5pHRqA)
+
+- [Java 竟然比我还大](https://mp.weixin.qq.com/s/ii87ytNzy1FFV9UoJUBzgw)
+
+- [程序员耳机里听的到底是什么](https://mp.weixin.qq.com/s/SopXuzk2RbV-XPELOT7E7g)
 
 
 # 关注我或加我好友
