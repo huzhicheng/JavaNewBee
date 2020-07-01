@@ -12,6 +12,241 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
     <!-- Theme: Simple Dark -->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"> -->
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+        /*自定义样式，实时生效*/
+        /* 全局属性
+ * 页边距 padding: 30px;
+ * 全文字体 font-family: ptima-Regular;
+ * 英文换行 word-break: break-all;
+ */
+        
+        .markdown-section {
+            font-size: 15px;
+            letter-spacing: 0.05em;
+            color: #595959;
+            padding: 0px;
+        }
+        /* 段落，下方未标注标签参数均同此处
+ * 上边距 margin-top: 5px;
+ * 下边距 margin-bottom: 5px;
+ * 行高 line-height: 26px;
+ * 词间距 word-spacing: 3px;
+ * 字间距 letter-spacing: 3px;
+ * 对齐 text-align: left;
+ * 颜色 color: #3e3e3e;
+ * 字体大小 font-size: 16px;
+ * 首行缩进 text-indent: 2em;
+ */
+        
+        .markdown-section p {
+            margin: 1em 4px;
+        }
+        /* 一级标题 */
+        
+        .markdown-section h1 {
+            margin: 1.2em 0 1em;
+            padding: 0;
+            font-weight: bold;
+            color: #35b378;
+        }
+        /* 一级标题内容 */
+        
+        .markdown-section h1 .content {}
+        /* 一级标题修饰 请参考有实例的主题 */
+        
+        .markdown-section h1:after {}
+        /* 二级标题 */
+        
+        .markdown-section h2 {
+            border-bottom: 0px;
+        }
+        
+        .markdown-section h2 a.anchor:hover {
+            text-decoration: none;
+        }
+        
+        .markdown-section h2 a span {
+            display: block;
+            border-bottom: 2px solid #35b378;
+            font-size: 1.3em;
+            display: block;
+            font-weight: bold;
+            background: #35b378;
+            color: #ffffff;
+            padding: 3px 10px 1px;
+            border-top-right-radius: 3px;
+            border-top-left-radius: 3px;
+            margin-right: 3px;
+        }
+        /* 二级标题内容 */
+        
+        .markdown-section h2 a span.content {
+            display: block;
+            font-weight: bold;
+            background: #35b378;
+            color: #ffffff;
+            padding: 3px 10px 1px;
+            border-top-right-radius: 3px;
+            border-top-left-radius: 3px;
+            margin-right: 3px;
+        }
+        /* 二级标题修饰 请参考有实例的主题 */
+        
+        .markdown-section h2 a:after {
+            display: block;
+            content: " ";
+            vertical-align: bottom;
+        }
+        /* 三级标题 */
+        
+        .markdown-section h3 {
+            margin: 1.2em 0 1em;
+            padding: 0;
+            font-weight: bold;
+            color: #35b378;
+        }
+        /* 三级标题内容 */
+        
+        .markdown-section h3 .content {}
+        /* 三级标题修饰 请参考有实例的主题 */
+        
+        .markdown-section h3:after {}
+        /* 无序列表整体样式
+ * list-style-type: square|circle|disc;
+ */
+        
+        .markdown-section ul {
+            color: #0e88eb;
+        }
+        /* 有序列表整体样式
+ * list-style-type: upper-roman|lower-greek|lower-alpha;
+ */
+        
+        .markdown-section ol {
+            color: #0e88eb;
+        }
+        /* 列表内容，不要设置li
+ */
+        
+        .markdown-section li section {
+            margin: 5px 0;
+            color: #0e88eb;
+        }
+        /* 引用
+ * 左边缘颜色 border-left-color: black;
+ * 背景色 background: gray;
+ */
+        
+        .markdown-section blockquote {
+            margin: 10px 5px;
+            border-left: 3px solid #35b378;
+            border-right: 0px solid #35b378;
+            color: #616161;
+            quotes: none;
+            background: rgba(66, 185, 131, .1);
+        }
+        /* 引用文字 */
+        
+        .markdown-section blockquote p {}
+        /* 链接 
+ * border-bottom: 1px solid #009688;
+ */
+        
+        .markdown-section a {
+            color: rgb(14, 136, 235);
+            border-bottom: 1px solid rgb(14, 136, 235);
+        }
+        /* 加粗 */
+        
+        .markdown-section strong {
+            color: #35b378;
+        }
+        /* 斜体 */
+        
+        .markdown-section em {}
+        /* 加粗斜体 */
+        
+        .markdown-section em strong {}
+        /* 删除线 */
+        
+        .markdown-section del {}
+        /* 分隔线
+ * 粗细、样式和颜色
+ * border-top: 1px solid #3e3e3e;
+ */
+        
+        .markdown-section hr {
+            border: 1px solid #35b378;
+            margin: 1.5em auto;
+        }
+        /* 图片
+ * 宽度 width: 80%;
+ * 居中 margin: 0 auto;
+ * 居左 margin: 0 0;
+ */
+        
+        .markdown-section img {}
+        /* 图片描述文字 */
+        
+        .markdown-section figcaption {}
+        /* 行内代码 */
+        
+        .markdown-section p code,
+        .markdown-section li code {
+            color: #e96900;
+        }
+        /* 非微信代码块
+ * 代码块不换行 display: -webkit-box !important;
+ * 代码块换行 display: block;
+ */
+        
+        .markdown-section pre code {}
+        /*
+ * 表格内的单元格
+ * 字体大小 font-size: 16px;
+ * 边框 border: 1px solid #ccc;
+ * 内边距 padding: 5px 10px;
+ */
+        
+        .markdown-section table tr th,
+        .markdown-section table tr td {}
+        /* 脚注文字 */
+        
+        .markdown-section .footnote-word {
+            color: #35b378;
+        }
+        /* 脚注上标 */
+        
+        .markdown-section .footnote-ref {
+            color: #35b378;
+        }
+        /* "参考资料"四个字 
+ * 内容 content: "参考资料";
+ */
+        
+        .markdown-section .footnotes-sep:before {}
+        /* 参考资料编号 */
+        
+        .markdown-section .footnote-num {}
+        /* 参考资料文字 */
+        
+        .markdown-section .footnote-item p {}
+        /* 参考资料解释 */
+        
+        .markdown-section .footnote-item p em {}
+        /* 行间公式
+ * 最大宽度 max-width: 300% !important;
+ */
+        
+        .markdown-section .block-equation svg {}
+        /* 行内公式
+ */
+        
+        .markdown-section .inline-equation svg {}
+    </style>
 
 
     <style>

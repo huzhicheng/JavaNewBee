@@ -1,6 +1,4 @@
-- [计算机基础](os_basic)
-- [计算机组成与原理](computer)
-- [Linux 基本用法](Linux)
+- [必读](require)
 - [Java 基础](java_basic)
 - [Java 进阶](java_higher)
 - [JVM](jvm)
