@@ -1,4 +1,5 @@
 - [必读](require)
+- [Java 的历史](history)
 - [开发环境配置](environment)
 - [Java 基础](java_basic)
 - [Java 进阶](java_higher)
