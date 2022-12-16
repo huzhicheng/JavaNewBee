@@ -113,6 +113,10 @@
 
 - [系统内存爆满，原来是线程搞的鬼](https://mp.weixin.qq.com/s/RRP6Zm3ATTY6sURoKzUuHw)
 
+- [过两年 JVM 可能就要被 GraalVM 替代了](https://mp.weixin.qq.com/s?__biz=MzAxMjA0MDk2OA==&mid=2449470918&idx=1&sn=c8d395b5d5019153f425d357f140ab04&chksm=8fbcbba1b8cb32b7aca6e3b0d202207e37632037dbb1a1dbf4fedc423235d111b28b71618176&token=1355206635&lang=zh_CN#rd)
+
+- [新项目为什么决定用 JDK 17 了](https://mp.weixin.qq.com/s?__biz=MzAxMjA0MDk2OA==&mid=2449470941&idx=1&sn=ff7ca366496b0b857a2f928117e749a4&chksm=8fbcbbbab8cb32ac5a9c6eff0a407e6099efaefb547b4f041a2811001d7c54d3d0438f736ba3&token=1355206635&lang=zh_CN#rd)
+
 
 ### Spring Cloud 系列
 
@@ -160,6 +164,10 @@
 
 - [做开发也要掌握的 mysql 优化思路](https://mp.weixin.qq.com/s/KyVXCtXp6skGjCnTIs2WUA)
 
+- [一个 MySQL 隐式转换的坑，差点把服务器搞挂了](https://mp.weixin.qq.com/s?__biz=MzAxMjA0MDk2OA==&mid=2449470804&idx=1&sn=f8e7af9a4456063246ad94658e1054e1&chksm=8fbcbb33b8cb32251f594e43ff95dc8f61e4487bdb9180ed6acee186aa29ec3452cf4be2afd3&token=1290386788&lang=zh_CN#rd)
+
+- [用 MySQL 做全文检索功能](https://mp.weixin.qq.com/s?__biz=MzAxMjA0MDk2OA==&mid=2449470878&idx=1&sn=fce8e448cf53a5b652529df40a6b0371&chksm=8fbcbbf9b8cb32ef12fbda5a9938dab66b02885f91a7549915491e79311d743355795b0e1b5c&token=1355206635&lang=zh_CN#rd)
+
 ### 多线程
 
 - [你用到过 ThreadLocal 吗](https://mp.weixin.qq.com/s/YCYwTsRAe8cMKrwwTvV1JQ)
@@ -190,11 +198,15 @@
 
 - [技术是如何被拿去作恶的](https://mp.weixin.qq.com/s/TA3j0-EzhowizothxwmOjw)
 
+- [二维码的秘密](https://mp.weixin.qq.com/s?__biz=MzAxMjA0MDk2OA==&mid=2449470840&idx=1&sn=571c8622abef2aa1045ce128baad372b&chksm=8fbcbb1fb8cb3209bf9c30c0ae8521d761d40cb12c122306a33cbcb26017f9a150afbc2b6964&token=1355206635&lang=zh_CN#rd)
+
 - [程序员• 后浪](https://mp.weixin.qq.com/s/zqMGJ4ixmNEat4HR5pHRqA)
 
 - [Java 竟然比我还大](https://mp.weixin.qq.com/s/ii87ytNzy1FFV9UoJUBzgw)
 
 - [程序员耳机里听的到底是什么](https://mp.weixin.qq.com/s/SopXuzk2RbV-XPELOT7E7g)
+
+- [原来 GitHub 不光能学代码，还有这些](https://mp.weixin.qq.com/s?__biz=MzAxMjA0MDk2OA==&mid=2449470888&idx=1&sn=368f3e68c787e140102adc775d3b2107&chksm=8fbcbbcfb8cb32d97e5313eaaf4dd14c8e30b9873a59529107133f47d010e7f14576af4c48be&token=1355206635&lang=zh_CN#rd)
 
 
 # 关注我或加我好友
