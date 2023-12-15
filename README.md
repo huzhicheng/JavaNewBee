@@ -1,6 +1,5 @@
 **种一棵树最好的时间是十年前，其次是现在。学习的最好时间就是立刻，而不是明天。**
 
-
 > 我画了一张导图，展示了 Java 开发者需要掌握的知识架构，跟着这张导图学习，不会再找不到方向了。我的文章也都是根据这张导图扩展而来，当然知识点众多，只能说包含绝大多数核心重点内容，如果你有什么补充或者疑问，可以加我的「[微信](#关注我或加我好友)」交流。
 
 还可以关注我的[公众号](#关注我或加我好友)，一起学习，一起进步。
@@ -9,11 +8,10 @@
 
 [![wechat](https://img.shields.io/badge/公众号-古时的风筝-success.svg)](#关注我或加我好友)
 [![wechat](https://img.shields.io/badge/微信-加好友-success.svg)](#加我好友)
-[![博客园](https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2%E5%9B%AD-blue)](https://juejin.im/user/5e13ec1d6fb9a04846508aae) 
-[![掘金](https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue)](https://juejin.im/user/5e13ec1d6fb9a04846508aae) 
+[![博客园](https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2%E5%9B%AD-blue)](https://juejin.im/user/5e13ec1d6fb9a04846508aae)
+[![掘金](https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue)](https://juejin.im/user/5e13ec1d6fb9a04846508aae)
 
-
-**根据知识图谱，我会写一个在线版本，[点击查看在线版本](https://huzhicheng.github.io/JavaNewBee/#/),持续更新中...**
+**文章会及时更新到我的个人博客[点击查看博客，阅读体验更佳](https://www.moonkite.cn),持续更新中...**
 
 **下面有我在公众号发过的[文章合集](#我写过的文章)**
 
@@ -21,12 +19,11 @@
 
 ![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfohyllc1lj30u00v71kx.jpg)
 
-
-
 # 我写过的文章
 
 ### 比较基础的
-- [7000 子讲解Lambda、函数式接口、Stream的原理及用法，一次性全给你](https://mp.weixin.qq.com/s/WSqLJEvO42uJ-DbOC2D36w)
+
+- [7000 子讲解 Lambda、函数式接口、Stream 的原理及用法，一次性全给你](https://mp.weixin.qq.com/s/WSqLJEvO42uJ-DbOC2D36w)
 
 - [用 jenkins 来提高部署测试的效率](https://mp.weixin.qq.com/s/4I9lHEf5TvwwGtVPTjKFUw)
 
@@ -65,7 +62,6 @@
 - [有趣的图说 HashMap，普通人也能看懂](https://mp.weixin.qq.com/s/oECpsgmvS9L7zdW_7TIC9g)
 
 - [别再重复造轮子了，这几个开源工具库送你了](https://mp.weixin.qq.com/s/_Utj5ApU8_Ja0nu411SJAQ)
-
 
 ### Spring && Spring Boot
 
@@ -117,50 +113,46 @@
 
 - [新项目为什么决定用 JDK 17 了](https://mp.weixin.qq.com/s?__biz=MzAxMjA0MDk2OA==&mid=2449470941&idx=1&sn=ff7ca366496b0b857a2f928117e749a4&chksm=8fbcbbbab8cb32ac5a9c6eff0a407e6099efaefb547b4f041a2811001d7c54d3d0438f736ba3&token=1355206635&lang=zh_CN#rd)
 
-
 ### Spring Cloud 系列
 
-之前写过 Spring Cloud 系列，在另外一个仓库中，已经有 140多为同学给了 star，欢迎各位同学关注。
+之前写过 Spring Cloud 系列，在另外一个仓库中，已经有 140 多为同学给了 star，欢迎各位同学关注。
 
 - [点击开始学习 Spring Cloud](https://github.com/huzhicheng/spring-cloud-study)
 
 - [Spring Cloud 各功能模块一览](https://mp.weixin.qq.com/s/f0iMAPNktJPLwmV9g4vdyw)
 
 - [Spring Cloud 系列之 Eureka 实现单点服务注册发现](https://mp.weixin.qq.com/s/kGrWQP_n_RCYTTaHbWQ3xQ)
-：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/eureka/eureka-single)
+  ：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/eureka/eureka-single)
 
 - [为 Eureka 服务注册中心实现安全控制](https://mp.weixin.qq.com/s/xVa6Ro4ORsCRJ9gsAOHAeg)
-：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/eureka/eureka-single)
+  ：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/eureka/eureka-single)
 
 - [Spring Cloud Eureka 实现高可用服务发现注册中心](https://mp.weixin.qq.com/s/d_GfdHxxiwdnYa2_mcv8TA)
-：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/eureka/eureka-ha)
+  ：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/eureka/eureka-ha)
 
 - [Spring Cloud Config 实现配置中心](https://mp.weixin.qq.com/s/WX-F2PdNhcBbzbfl460Gnw)
-：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/config)
+  ：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/config)
 
 - [服务注册发现、配置中心集一体的 Spring Cloud Consul](https://mp.weixin.qq.com/s/HKhzKT4oMX8S_Jg1nLtxNA)
-：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/consul)
+  ：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/consul)
 
 - [Spring Cloud 系列之 Spring Cloud Stream](https://mp.weixin.qq.com/s/QBjrCEO7OcPcy75cEkCndQ)
-：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/stream)
+  ：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/stream)
 
 - [Spring Cloud Gateway 简单使用](https://mp.weixin.qq.com/s/LvK2_xPm0txNGJMUyKO1GQ)
-：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/consul/gateway)
+  ：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/consul/gateway)
 
 - [Spring Cloud OAuth2 实现用户认证和单点登录](https://mp.weixin.qq.com/s/tXIycDTHw4nruuMP7xirQA)
-：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/oauth2)
-
+  ：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/oauth2)
 
 - [Spring Cloud OAuth2 授权码模式，微信授权就是这个原理](https://mp.weixin.qq.com/s/r3G8Te9f9uXSbf8YaUV6MA)
-：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/oauth2/oauth2-client-authorization-code-server)
-
-
+  ：[对应源码](https://github.com/huzhicheng/spring-cloud-study/tree/master/oauth2/oauth2-client-authorization-code-server)
 
 ### MySQL
 
-- [一条 SQL 统计大V涨粉排行榜](https://mp.weixin.qq.com/s/t_ZlIMs1c-7xorfuhcEt0A)
+- [一条 SQL 统计大 V 涨粉排行榜](https://mp.weixin.qq.com/s/t_ZlIMs1c-7xorfuhcEt0A)
 
-- [面试必备：MySQL 的4种事务隔离级别及其原理](https://mp.weixin.qq.com/s/ukfhk_11LJDyQ7Ri8hXiAg)
+- [面试必备：MySQL 的 4 种事务隔离级别及其原理](https://mp.weixin.qq.com/s/ukfhk_11LJDyQ7Ri8hXiAg)
 
 - [做开发也要掌握的 mysql 优化思路](https://mp.weixin.qq.com/s/KyVXCtXp6skGjCnTIs2WUA)
 
@@ -181,8 +173,6 @@
 - [我们说的 CAS 自旋锁是什么](https://mp.weixin.qq.com/s/VeHq-LFPTYbtO6DsHKwngw)
 
 - [工作中没有多线程使用场景，怎么办](https://mp.weixin.qq.com/s/IpR0NWZeOFwvWL_yXqR0nA)
-
-
 
 ### 技术之外
 
@@ -208,9 +198,6 @@
 
 - [原来 GitHub 不光能学代码，还有这些](https://mp.weixin.qq.com/s?__biz=MzAxMjA0MDk2OA==&mid=2449470888&idx=1&sn=368f3e68c787e140102adc775d3b2107&chksm=8fbcbbcfb8cb32d97e5313eaaf4dd14c8e30b9873a59529107133f47d010e7f14576af4c48be&token=1355206635&lang=zh_CN#rd)
 
-
 # 关注我或加我好友
+
 ![古时的风筝](https://tva1.sinaimg.cn/large/007S8ZIlly1gfd6gx54haj314z0npafp.jpg)
-
-
-
